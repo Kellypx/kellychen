@@ -10,16 +10,16 @@ color: #40E0D0;
 font-family: 'Noto Sans TC', sans-serif;
 }
 .bg-primary {
-  background-color: #40E0D0 !important;
+  background-color: #40E0D0!important;
 }
 
 .text-primary {
-  color: #40E0D0 !important;
+  color: #40E0D0!important;
 }
 
 a {
-  color: #40E0D0 ;
+  color: #40E0D0;
 }
 a:hover, a:focus, a:active {
-  color: #40E0D0 ;
+  color: #40E0D0;
 }
