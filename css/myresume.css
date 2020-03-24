@@ -1,5 +1,6 @@
 body {
 font-family: 'Noto Sans TC', sans-serif;
+color:turquoise;  
 }
 h1,h2,h3,h4,h5,h6 {
 font-family: 'Noto Sans TC', sans-serif;
@@ -7,4 +8,3 @@ font-family: 'Noto Sans TC', sans-serif;
 .subheading {
 font-family: 'Noto Sans TC', sans-serif;
 }
-section div h1 span{color:turquoise}
