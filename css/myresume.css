@@ -6,7 +6,9 @@ h1, h2 {
 font-family: 'Noto Sans TC', sans-serif;
 color:#40E0D0   
 }
-
+.subheading {
+font-family: 'Noto Sans TC', sans-serif;
+}
 .bg-primary {
   background-color:#00BFFF !important;
 }
