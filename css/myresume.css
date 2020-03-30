@@ -10,7 +10,7 @@ h1, h2, h3 {
   font-family: 'Noto Sans TC', sans-serif;
 }
 .bg-primary {
-  background-color: #00BFFF !important;
+  background-color: #383838 !important;
   background-image: url("argyle.png");
 }
 .text-primary {
