@@ -1,10 +1,10 @@
 body {
   font-family: 'Noto Sans TC', sans-serif;
-  color:#40E0D0
+  color:#0B2950
 }
 h1, h2, h3 {
   font-family: 'Noto Sans TC', sans-serif;
-  color:#40E0D0
+  color:#0B2950
 }
 .subheading {
   font-family: 'Noto Sans TC', sans-serif;
@@ -14,11 +14,11 @@ h1, h2, h3 {
   background-image: url("argyle.png");
 }
 .text-primary {
-  color:#7FFFD4 !important;
+  color:#0B2950 !important;
 }
 a {
-  color:#40E0D0;
+  color:#0B2950;
 }
 a:hover, a:focus, a:active {
-  color:#40E0D;
+  color:#0B2950;
 }
