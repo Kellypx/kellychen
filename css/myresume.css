@@ -22,10 +22,10 @@ a {
 a:hover, a:focus, a:active {
   color:#0B2950;
 }
-table>tr>td>a>i {
+table i {
   color:#ff0000;
-  font-size:20px;
+  font-size:25px;
 }
 th, td {
-  text-align:central;
+  text-align:center;
 }
