@@ -22,3 +22,7 @@ a {
 a:hover, a:focus, a:active {
   color:#0B2950;
 }
+table>a {
+  color:#ff0000;
+  size-font:20px;
+}
