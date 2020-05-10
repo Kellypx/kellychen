@@ -26,6 +26,6 @@ table i {
   color:#FF0000;
   font-size:25px;
 }
-.icon{
-  align:center;
+td.icon{
+  text-align:center;
 }
