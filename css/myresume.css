@@ -1,3 +1,6 @@
+.E{
+  color:#6a818d;
+}
 body {
   font-family: 'Noto Sans TC', sans-serif;
   color:#0B2950
@@ -29,6 +32,4 @@ table i {
 .icon{
   text-align:center;
 }
-.E{
-  color:#6a818d;
-}
+
