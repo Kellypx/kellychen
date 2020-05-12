@@ -47,9 +47,6 @@ div.child_div {
   display:block;
   align-self:center;
 }
-#container {
-  background-color:#faf0d6;
-}
 #title {
   font-size:1.5rem;
   font-weight:bold;
