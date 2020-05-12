@@ -45,3 +45,12 @@ div.child_div {
   display:block;
   margin:0rem;
 }
+#container {
+  background-color:#faf0d6;
+}
+#title {
+  font-size:3rem;
+}
+#words {
+  color:#0c3569;
+}
