@@ -44,6 +44,7 @@ div.child_div {
 .child_div p {
   display:block;
   border:1px solid;
+  align-self:center;
 }
 #container {
   background-color:#faf0d6;
