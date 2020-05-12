@@ -35,7 +35,7 @@ table i {
 div#C {
   display:flex;
   flex-flow:row wrap;
-  justify-content:space-around;
+  justify-content:space-evenly;
 }
 div.child_div {
   margin:0.5rem;
@@ -43,7 +43,7 @@ div.child_div {
 }
 .child_div p {
   display:block;
-  margin:0rem;
+  border:1px solid;
 }
 #container {
   background-color:#faf0d6;
