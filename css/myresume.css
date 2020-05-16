@@ -25,13 +25,6 @@ a {
 a:hover, a:focus, a:active {
   color:#0B2950;
 }
-table i {
-  color:#FF0000;
-  font-size:25px;
-}
-.icon {
-  text-align:center;
-}
 .IG a:hover {
   background-color: rgb(212, 46, 120);
 }
@@ -43,6 +36,16 @@ table i {
 }
 .T a:hover {
   background-color: rgb(47, 65, 88);
+}
+.social-icons span{
+  margin-right: 1rem;
+}
+table i {
+  color:#FF0000;
+  font-size:25px;
+}
+.icon {
+  text-align:center;
 }
 div#C {
   display:flex;
