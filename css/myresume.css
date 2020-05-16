@@ -33,7 +33,16 @@ table i {
   text-align:center;
 }
 .IG a:hover {
-  background-color: #FFFFB5;
+  background-color: rgb(212, 46, 120);
+}
+.FB a:hover {
+  background-color: rgb(64, 100, 173);
+}
+.LINE a:hover {
+  background-color: rgb(65, 193, 6);
+}
+.T a:hover {
+  background-color: rgb(47, 65, 88);
 }
 div#C {
   display:flex;
