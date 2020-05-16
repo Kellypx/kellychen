@@ -32,6 +32,9 @@ table i {
 .icon {
   text-align:center;
 }
+.fab fa-instagram a:hover {
+  background-color: ##FFFFB5;
+}
 div#C {
   display:flex;
   flex-flow:row wrap;
