@@ -71,3 +71,6 @@ div.child_div {
   color:#0c3569;
   text-align:center;
 }
+#sideNav .navbar-brand .img-profile {
+    border: 0.5rem solid rgba(212, 138, 110, 0.2);
+  }
