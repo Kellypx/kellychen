@@ -43,6 +43,12 @@ a:hover, a:focus, a:active {
 .social-icons span{
   margin-right: 1rem;
 }
+.table {
+  border-style: outset;
+  text-size:20px;
+  background-color:#D6FBFB;
+}
+    
 table i {
   color:#FF0000;
   font-size:25px;
