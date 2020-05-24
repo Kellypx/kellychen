@@ -5,7 +5,6 @@ body {
   font-family: 'Noto Sans TC', sans-serif;
   color:#0B2950;
   background-image:url("backgroundRJ.jpg");
-  font-weight:bold;
 }
 h1, h2, h3 {
   font-family: 'Noto Sans TC', sans-serif;
@@ -46,10 +45,10 @@ a:hover, a:focus, a:active {
   margin-right: 1rem;
 }
 .music {
-  background-color:#D6FBFB;
+  background-color:#f9daa0;
 }
 .musicc {
-  background-color:#EFD3B0;
+  background-color:#faf0d6;
 }
 table i {
   color:#FF0000;
