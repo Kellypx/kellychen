@@ -5,14 +5,17 @@ body {
   font-family: 'Noto Sans TC', sans-serif;
   color:#0B2950;
   background-image:url("backgroundRJ.jpg");
-  font-weight:bold;
 }
 h1, h2, h3 {
   font-family: 'Noto Sans TC', sans-serif;
   color:#0B2950
 }
+p {
+  font-weight:bold;
+}
 .subheading {
   font-family: 'Noto Sans TC', sans-serif;
+  font-weight:bold;
 }
 .bg-primary {
   background-color: #EFD3B0 !important;
@@ -93,6 +96,7 @@ div.child_div {
 .words {
   color:#0c3569;
   text-align:center;
+  font-weight:lighter;
 }
 #sideNav .navbar-brand .img-profile {
     border: 0.5rem solid rgba(212, 138, 110, 0.2);
