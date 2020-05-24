@@ -55,8 +55,13 @@ table i {
 .icon {
   text-align:center;
 }
-.pic {
+.pic1 {
   font-size:30px;
+  padding:1rem;
+}
+.pic2 {
+  font-size:30px;
+  padding:2.5rem;
 }
 div#C {
   display:flex;
