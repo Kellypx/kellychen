@@ -57,11 +57,15 @@ table i {
 }
 .pic1 {
   font-size:30px;
-  padding:1rem;
+  padding:6rem;
 }
 .pic2 {
   font-size:30px;
   padding:2.5rem;
+}
+.pic3 {
+  font-size:30px;
+  padding:1rem;
 }
 div#C {
   display:flex;
