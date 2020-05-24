@@ -5,6 +5,7 @@ body {
   font-family: 'Noto Sans TC', sans-serif;
   color:#0B2950;
   background-image:url("backgroundRJ.jpg");
+  font-weight:bold;
 }
 h1, h2, h3 {
   font-family: 'Noto Sans TC', sans-serif;
